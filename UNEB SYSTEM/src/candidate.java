@@ -22,6 +22,8 @@ public class candidate {
         System.out.println("candiadate  details ");
         System.out.println("examyear = " + examyear);
         System.out.println("regfee = " + regfee);
-        sou
+        System.out.println("regnumber = " + regnumber);
+        System.out.println("name = " + name);
+        System.out.println("regstatus = " + regstatus);
     }
 }
