@@ -12,5 +12,7 @@ public class candidate {
     }
     String name;
     String regstatus;
-    
+    {
+        regstatus="registered";
+    }
 }
