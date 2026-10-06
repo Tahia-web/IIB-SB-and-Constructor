@@ -9,6 +9,8 @@ public class candidate {
         System.out.println("examyear = " + examyear);
         System.out.println("regfee :UGX" + regfee);
         System.out.println("regnumber = " + regnumber);
-        
     }
+    String name;
+    String regstatus;
+    
 }
