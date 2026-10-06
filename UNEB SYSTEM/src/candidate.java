@@ -15,4 +15,7 @@ public class candidate {
     {
         regstatus="registered";
     }
+    public candidate(  String n){
+        name=n;
+    }
 }
