@@ -18,4 +18,10 @@ public class candidate {
     public candidate(  String n){
         name=n;
     }
+    public void  display(){
+        System.out.println("candiadate  details ");
+        System.out.println("examyear = " + examyear);
+        System.out.println("regfee = " + regfee);
+        sou
+    }
 }
